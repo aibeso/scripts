@@ -1,0 +1,25 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "学习脚本",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aibeso/scripts.git"
+  },
+  "author": "aibeso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aibeso/scripts/issues"
+  },
+  "homepage": "https://github.com/aibeso/scripts#readme",
+  "dependencies": {
+    "got": "^11.8.2",
+    "http-server": "^0.12.3",
+    "request": "^2.88.2",
+    "dotenv": "^10.0.0"
+  }
+}

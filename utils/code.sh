@@ -18,7 +18,6 @@ env_name=(
   JDSGMH_SHARECODES
   JDCFD_SHARECODES
   JDHEALTH_SHARECODES
-  JD_CAENIVALCITY_SHARECODES
 )
 var_name=(
   ForOtherFruit
@@ -34,24 +33,22 @@ var_name=(
   ForOtherSgmh
   ForOtherCfd
   ForOtherHealth
-  ForOtherCarnivalcity
 )
 
 name_js=(
-  zero205_JD_tencent_scf_main_jd_fruit
-  zero205_JD_tencent_scf_main_jd_pet
-  zero205_JD_tencent_scf_main_jd_plantBean
-  zero205_JD_tencent_scf_main_jd_dreamFactory
-  zero205_JD_tencent_scf_main_jd_jdfactory
-  zero205_JD_tencent_scf_main_jd_jdzz
-  zero205_JD_tencent_scf_main_jd_crazy_joy
-  zero205_JD_tencent_scf_main_jd_jxnc
-  zero205_JD_tencent_scf_main_jd_bookshop
-  zero205_JD_tencent_scf_main_jd_cash
-  zero205_JD_tencent_scf_main_jd_sgmh
-  zero205_JD_tencent_scf_main_jd_cfd
-  zero205_JD_tencent_scf_main_jd_health
-  smiek2221_scripts_gua_carnivalcity
+  jd_fruit
+  jd_pet
+  jd_plantBean
+  jd_dreamFactory
+  jd_jdfactory
+  jd_jdzz
+  jd_crazy_joy
+  jd_jxnc
+  jd_bookshop
+  jd_cash
+  jd_sgmh
+  jd_cfd
+  jd_health
 )
 
 name_config=(
@@ -68,7 +65,6 @@ name_config=(
   Sgmh
   Cfd
   Health
-  Carnivalcity
 )
 
 name_chinese=(
@@ -85,7 +81,6 @@ name_chinese=(
   闪购盲盒
   京喜财富岛
   东东健康社区
-  京东手机狂欢城
 )
 
 gen_pt_pin_array() {
